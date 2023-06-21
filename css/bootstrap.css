@@ -8317,21 +8317,3 @@ button.close {
   text-align: center;
 }
 
-.heading {
-  font-size: 30px;
-}
-
-.sub-heading {
-  font-size: 27px;
-}
-
-@media only screen and (max-width: 1024px) {
-  .heading {
-    font-size: 25px;
-  }
-
-  .sub-heading {
-    font-size: 22px;
-  }
-
-}
