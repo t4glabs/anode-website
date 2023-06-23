@@ -9,6 +9,12 @@ p {
     src: url(fonts/Montserrat-Regular.ttf);
 }
 
+
+@font-face {
+    font-family: myFirstFont;
+    src: url(font/Montserrat/Montserrat-VariableFont_wght.ttf);
+}
+
 @font-face {
     font-family: breeSerif;
     src: url(fonts/MyriadPro-Regular.otf);
@@ -1864,4 +1870,3 @@ h1 {
     background-color: #373d4b !important;
     color: #fff !important;
 }
-
