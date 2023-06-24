@@ -6,18 +6,13 @@ p {
 
 @font-face {
     font-family: myFirstFont;
-    src: url(fonts/Montserrat-Regular.ttf);
+    src: url(../fonts/Montserrat-Regular.ttf);
 }
 
-
-@font-face {
-    font-family: myFirstFont;
-    src: url(font/Montserrat/Montserrat-VariableFont_wght.ttf);
-}
 
 @font-face {
     font-family: breeSerif;
-    src: url(fonts/MyriadPro-Regular.otf);
+    src: url(../fonts/MyriadPro-Regular.otf);
 }
 
 body {
