@@ -1865,3 +1865,14 @@ h1 {
     background-color: #373d4b !important;
     color: #fff !important;
 }
+
+
+/* custom css */
+footer {
+    height: 30vh;
+}
+
+footer .credentials {
+    padding: 20px 0 0;
+}
+
